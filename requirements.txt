@@ -1,0 +1,8 @@
+ipywidgets
+notebook
+tiktoken
+trl # train transformer language models with reinforcement learning
+peft # parameter-efficient fine-tuning (PEFT) methods to enable efficient adaptation of the pre-trained model
+torch # pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cpu
+datasets # common machine learning datasets
+transformers # library developed by Hugging Face and comes with thousands of pre-trained models for a variety of text-based tasks such as classification, summarization, and translation
